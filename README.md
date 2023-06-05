@@ -8,7 +8,7 @@
 * Python: 3.5
 * Django: 2.2.0
 
-### 示例博客：<[http://www.spiderpy.cn/blog](http://www.spiderpy.cn/blog)>
+### 示例博客：<http://110.40.172.239:8000/blog/>
 
 ### 特点
 

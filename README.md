@@ -1,7 +1,7 @@
 ## Django搭建博客
 ![py35](https://img.shields.io/badge/Python-3.5-red.svg) 
 ![Django2.2](https://img.shields.io/badge/Django-2.2.0-green.svg)
-[![](https://img.shields.io/badge/Powered%20by-@栾兴业-blue.svg)]((http://110.40.172.239:8000/blog/)
+[![](https://img.shields.io/badge/Powered%20by-@栾兴业-blue.svg)](http://110.40.172.239:8000/blog/)
 
 使用Django快速搭建博客
 ### 要求
